@@ -15,6 +15,16 @@
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
 def recipe_ingredients(perfect_10_recipe)
+  return   - almond flour => "2 cups"
+  - gluten freewhole oats => "1 cup"
+  - kosher salt => "1/2 tea spoon"
+  - baking powder  => "1/2 tea spoon"
+  - baking soda => "1/4 tea spoon"
+  - xanthan gum => "1/2 tea spoon"
+  - slivered almonds, lightly toasted => "1/4 cup"
+  - mini dark chocolate chips => "3/4 cup"
+  - olive oil => "1/2 cup"
+  - agave => "1/4 cup"
 end
 
 #2: Write code that returns the amount of chocolate chips from perfect_10 ingredients that is needed in the recipe.
