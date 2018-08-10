@@ -13,6 +13,10 @@
 #  - agave - 1/4 cup
 # All of the ingredients should be symbols and the amounts should be strings. Remember that symbols start with a colon and be sure to sub underscores for spaces.
 
+perfect_10_recipe = ["almond flour", "gluten freewhole oats", "kosher salt", "baking powder", "baking soda", "xanthan gum", "silvered almonds, lightly toasted", "mini dark chocolate chips", "olive oil", "agave"]
+
+
+
 #2. Write a method that simply returns (not puts) your perfect_10 hash
 def recipe_ingredients(perfect_10_recipe)
   return   - almond flour => "2 cups"
